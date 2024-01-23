@@ -19,3 +19,7 @@
 - [Rubinho](https://github.com/RubinhoSa)
 - [Emanuel](https://github.com/emanuelbulos)
 - [Denis](https://github.com/DenisJota)
+- [Sergio](https://github.com/RipBr)
+- [Clivek](https://github.com/Clikif)
+- [Winicius](https://github.com/winicius-assis)
+- [Vitor](https://github.com/vprribeiro)
