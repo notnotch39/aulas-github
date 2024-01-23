@@ -23,3 +23,4 @@
 - [Clivek](https://github.com/Clikif)
 - [Winicius](https://github.com/winicius-assis)
 - [Vitor](https://github.com/vprribeiro)
+- [Lucas](https://github.com/lucasfragadev)
