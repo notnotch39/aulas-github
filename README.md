@@ -1,6 +1,6 @@
 ## Links Importantes
 
-- [Comandos Unix] https://wiki.inf.ufpr.br/maziero/doku.php?id=unix:comandos_basicos
+- [Comandos Unix](https://wiki.inf.ufpr.br/maziero/doku.php?id=unix:comandos_basicos)
 
 ## Perfis
 
