@@ -29,3 +29,5 @@
 - [Vitor](https://github.com/vprribeiro)
 - [Lucas](https://github.com/lucasfragadev)
 - [Camile](https://github.com/eliimac)
+- [Fabio](https://github.com/fabiio-Fullstack)
+- [Gui](https://github.com/Guialmeiida/Guialmeiida)
