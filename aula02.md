@@ -2,26 +2,20 @@
 
 - [Download Git](https://git-scm.com/downloads)
 
-## git init
-Incializa um repositório local
+## Comandos
 
-## git status
-Mostra o estado dos arquivos
+- git init | Incializa um repositório local
 
-## git add nomearquivo
-Adiciona o arquivo ao a fase intermediária "staged"
+- git status | Mostra o estado dos arquivos
 
-### git add .
-Adiciona todos os arquivos da pasta atual a fase intermediária.
+- git add nomearquivo | Adiciona o arquivo ao a fase intermediária "staged"
 
-### arquivo .gitignore
-Permite dizer os arquivos serão ignorados pelo git
+- - git add . | Adiciona todos os arquivos da pasta atual a fase intermediária.
 
-## git commit -m "Mensagem"
-Cria um ponto na linha do tempo, salvando essa versão.
+- - arquivo .gitignore | Permite dizer os arquivos serão ignorados pelo git
 
-## git pull
-Pega as alterações do repositório remoto e adiciona ao repositório local.
+- git commit -m "Mensagem" | Cria um ponto na linha do tempo, salvando essa versão.
 
-## git push
-Envia as alterações do repositório local para o remoto.
+- git pull | Pega as alterações do repositório remoto e adiciona ao repositório local.
+
+- git push | Envia as alterações do repositório local para o remoto.
